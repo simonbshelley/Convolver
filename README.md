@@ -1,4 +1,4 @@
 Convolver
 =========
 
-Code written in C++ to convolve one sound file with another and return the result as a new sound file
+Convolves one sound file with another using circular convolution and returns the result as a new sound file.
